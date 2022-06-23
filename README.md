@@ -1,7 +1,7 @@
 # Sobre mim
 - 👋 Olá, sou @anaheinzen
 - 📫 Meu email de contato, é ana.heinzen@escola.pr.gov.br
-- 👀 Estou aprendendo a programar
+<!-- - 👀 Estou no 1° ano do Ensino Médio 
 
 
 <!---
